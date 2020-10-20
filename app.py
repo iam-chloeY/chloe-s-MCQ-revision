@@ -32,7 +32,7 @@ while tracker !=1:
     output = "Wrong. This is not division."
     score -=1
   else:
-    output = "Please choose a, b, c or d only."
+    output = "Please choose a, b, c or d."
   
   print()
   print(output)
